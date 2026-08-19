@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thuyacoding/thuyacoding/main/assets/banner.png" width="100%" alt="Thu Ya Coding profile banner" />
+  <img src="https://raw.githubusercontent.com/thuyacoding/thuyacoding/1d73476adadb2d5881e804567a44000084b0a864/assets/banner.png" width="100%" alt="Thu Ya Coding profile banner" />
 
   <h3>Developer · Builder · Always learning</h3>
 
