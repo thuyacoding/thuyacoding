@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thuyacoding/thuyacoding/main/assets/banner.png" width="100%" alt="Follow Thuya profile banner" />
+  <img src="https://raw.githubusercontent.com/thuyacoding/thuyacoding/main/assets/banner.png" width="100%" alt="Thu Ya Coding profile banner" />
 
   <h3>Developer · Builder · Always learning</h3>
 
-  <a href="https://github.com/thuyacoding?tab=followers"><img src="https://img.shields.io/github/followers/followthuya00-png?style=for-the-badge&logo=github&label=FOLLOW&color=0ea5e9" alt="GitHub followers" /></a>
+  <a href="https://github.com/thuyacoding?tab=followers"><img src="https://img.shields.io/github/followers/thuyacoding?style=for-the-badge&logo=github&label=FOLLOW&color=0ea5e9" alt="GitHub followers" /></a>
   <a href="https://github.com/thuyacoding?tab=repositories"><img src="https://img.shields.io/badge/Focus-Web%20Development-0f172a?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus: web development" /></a>
 </div>
 
